@@ -1,4 +1,4 @@
-Vpackage com.example.vajnyproject;
+package com.example.vajnyproject;
 
 import androidx.appcompat.app.AppCompatActivity;
 
